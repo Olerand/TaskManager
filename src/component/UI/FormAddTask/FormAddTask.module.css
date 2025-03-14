@@ -1,0 +1,11 @@
+.formActive{
+    display: flex;
+    flex-direction: column;
+    gap: 75px;
+
+}
+.blockFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
